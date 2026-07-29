@@ -1,3 +1,11 @@
+The Online Shop & Home Delivery System is a web-based e-commerce platform designed to allow customers to browse products, add items to a shopping cart, place orders, and provide their delivery address.
+The system will also support home delivery through FPS, making it easier for customers to receive their purchased products at their homes.
+
+
+
+
+
+
 ### 💻 Simple code to demonstrate your progres.
 
 ```python
